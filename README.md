@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a very enthusiast person, always interested and I'm a sophomore year  👋CSE student<br>Java ☕, C++ 🚀, C enthusiast 🖥️<br>Coding for curiosity and collaboration 💻✨<br>#CS #CodePassion
+I am a very enthusiast person, always interested and I'm on my sophomore year at United International University 👋CSE student<br>Java ☕, C++ 🚀, C enthusiast 🖥️<br>Coding for curiosity and collaboration 💻✨<br>#CS #CodePassion
 
 
 ## 🌐 Socials:
